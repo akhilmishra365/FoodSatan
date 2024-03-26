@@ -20,4 +20,4 @@ State Management: Redux Toolkit
 Clone the repository
 Run npm init
 Run npm start.
-Make sure you've allow CORS extension installed in your browser.
+Make sure you've allow #CORS #extension installed in your browser.
