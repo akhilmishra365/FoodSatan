@@ -21,3 +21,6 @@ Clone the repository
 Run npm init
 Run npm start.
 Make sure you've allow #CORS #extension installed in your browser.
+
+# NOTE ==> 
+There might be some issues with the loading of app and food items price and that is due to the swiggy api that is changed byt swiggy. As this project uses live api
