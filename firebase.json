@@ -1,0 +1,14 @@
+{
+    "hosting": {
+        "public": "public",
+        "ignore": ["firebase.json", "**/functions/**"],
+        "headers": [
+            {
+                "source": "*",
+                "headers": [
+                    { "key": "Access-Control-Allow-Origin", "value": "http://localhost:1234" }
+                ]
+            }
+        ]
+    }
+}
